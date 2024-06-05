@@ -88,7 +88,10 @@ function Projects() {
               imgPath={gogarhMovies}
               isBlog={false}
               title="GogarhMovies"
-              description="Immerse yourself in the world of music with our online player, meticulously crafted using JavaScript. Navigate through a user-friendly interface, create playlists, and discover new tracks effortlessly. Elevate your music experience with smooth playback and personalized features."
+              description="Constructed a React-based movie website with a vast collection, allowing users to seamlessly search, explore,
+              and view thousands of movies in various genres.
+              Implemented ContextAPI for streamlined state management, enabling efficient sorting by genres and
+              integrating infinite scrolling for a user-friendly and engaging movie browsing experience"
               ghLink="https://github.com/NitinGogarh/GogarhMovies"
              
               
